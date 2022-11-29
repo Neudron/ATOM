@@ -1,7 +1,5 @@
 # ATOM
-My Minecraft mod pack :)
 
 
-Idk what to put here.
 
-Modrinth:
+Modrith:https://modrinth.com/modpack/atom
