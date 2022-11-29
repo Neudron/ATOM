@@ -2,4 +2,4 @@
 
 
 
-Modrith:https://modrinth.com/modpack/atom
+Modrith: https://modrinth.com/modpack/atom
